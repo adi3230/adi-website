@@ -1,0 +1,31 @@
+{
+  "name": "adi-website",
+  "version": "0.0.1",
+  "authors": [
+    "Aditya Joshi <adi3230@gmail.com>"
+  ],
+  "description": "bower components",
+  "keywords": [
+    "angular",
+    "bower",
+    "components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-animate": "~1.4.5",
+    "angular-route": "~1.4.5",
+    "animate.css": "~3.4.0",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0",
+    "jquery": "~2.1.4"
+  }
+}
